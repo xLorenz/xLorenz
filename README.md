@@ -1,4 +1,6 @@
-# Lorenzo - Informatics Engineering student
+# Hey 😉
+
+**I'm an Informatics Engineering student**
 
 **I build games and engine systems from scratch (Java and Python).**  
 
