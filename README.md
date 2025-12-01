@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey 🙌
 
-<!--
-**xLorenz/xLorenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lorenzo, an Informatic Engineering student based in Argentina.
 
-Here are some ideas to get you started:
+Currently a hobbyist, mainly code personal projects in Java or Python. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main projects currenty are based on coding games from scratch without a game engine, coding every part by myself, which gave me some knowledge in optimization and algorithmic thinking. 
+
+I use draw.io to UML design my projects and (try my best to) follow Object Oriented Programming paradigm.
+
+I'll be uploading small and big personal projects and things I'm working on. 
+
+___
