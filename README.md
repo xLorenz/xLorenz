@@ -1,13 +1,18 @@
-## Hey 🙌
+# Lorenzo - Informatics Engineering student
 
-I'm Lorenzo, an Informatic Engineering student based in Argentina.
+**I build games and engine systems from scratch (Java and Python).**  
 
-Currently a hobbyist, mainly code personal projects in Java or Python. 
+Currently studying 3rd year of Informatics Engineering in Argentina. 
+I focus on performance, algorithms, and clean object-oriented design.
 
-My main projects currenty are based on coding games from scratch without a game engine, coding every part by myself, which gave me some knowledge in optimization and algorithmic thinking. 
+I develop personal projects in Java and Python, focusing on engine systems.
 
-I use draw.io to UML design my projects and (try my best to) follow Object Oriented Programming paradigm.
+---
 
-I'll be uploading small and big personal projects and things I'm working on. 
-
-___
+## Tech & tools
+- **Languages:** Java · Python  
+- **Concepts:** Game loops, collision systems, optimization, data structures, algorithms  
+- **Design & diagrams:** UML (draw.io)  
+- **Practices:** Object-Oriented Design, code readability
+  
+---
